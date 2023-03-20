@@ -1,4 +1,4 @@
-# VR Art Gallery
+# VR Art Gallery - On going project!
 
 The goal of this project is to create a VR application that would allow people to join an art gallery and explore it. This application will work with a virtual reality headset and will allow users to interact with each other and the art, as well as the ability to create their own art. Users who don't have a virtual reality headset will be able to join the art gallery via a desktop application. Users will be able to create their own art alone or collaboratively within the gallery, have the option to save their art to their device, and submit it to a public gallery. It will be possible to have multiple instances of the art galleries hosting users at the same time. We would like the ability for users to submit the art they draw to a public gallery that only shows user art.
  
